@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VolumeX</string>
+    <string name="tile_label">Volume</string>
+    <string name="how_to_use">How to use VolumeX</string>
+    <string name="step_1">1. Pull down your Quick Settings panel.</string>
+    <string name="step_2">2. Tap the Edit (pencil) icon.</string>
+    <string name="step_3">3. Find \'Volume\' and drag it to your active tiles.</string>
+    <string name="privacy_title">Privacy &amp; Security</string>
+    <string name="privacy_desc">VolumeX requires NO internet permission and contains NO trackers or telemetry. It only interacts with your system volume settings locally.</string>
+    <string name="github_text">Source code available on GitHub:</string>
+    <string name="github_url">https://github.com/zygisk-enc/volumeX</string>
+</resources>
