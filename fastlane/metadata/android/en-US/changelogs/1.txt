@@ -1,0 +1,3 @@
+- Initial Release.
+- Quick Settings Tile integration.
+- Privacy-focused design with zero internet permissions.
