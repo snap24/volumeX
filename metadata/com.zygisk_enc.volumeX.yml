@@ -1,0 +1,28 @@
+Categories:
+  - System
+License: Apache-2.0
+AuthorName: Chinmai H B
+AuthorEmail: chinmai.enc@gmail.com
+SourceCode: https://github.com/zygisk-enc/volumeX
+IssueTracker: https://github.com/zygisk-enc/volumeX/issues
+
+Summary: Simple volume control via Quick Settings
+Description: |-
+  A lightweight utility that adds volume control tiles to your Quick Settings.
+  Perfect for devices with broken volume buttons or for quick adjustments
+  without leaving the current app.
+
+RepoType: git
+Repo: https://github.com/zygisk-enc/volumeX.git
+
+Builds:
+  - versionName: '1.0'
+    versionCode: 1
+    commit: v1.0.0
+    gradle:
+      - yes
+
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags
+CurrentVersion: '1.0'
+CurrentVersionCode: 1
