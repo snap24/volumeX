@@ -1,1 +1,1 @@
-Simple volume control shortcut via Quick Settings.
+Simple volume control via Quick Settings
