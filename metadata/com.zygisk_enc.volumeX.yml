@@ -6,12 +6,6 @@ AuthorEmail: chinmai.enc@gmail.com
 SourceCode: https://github.com/zygisk-enc/volumeX
 IssueTracker: https://github.com/zygisk-enc/volumeX/issues
 
-Summary: Simple volume control via Quick Settings
-Description: |-
-  A lightweight utility that adds volume control tiles to your Quick Settings.
-  Perfect for devices with broken volume buttons or for quick adjustments
-  without leaving the current app.
-
 RepoType: git
 Repo: https://github.com/zygisk-enc/volumeX.git
 
@@ -22,7 +16,7 @@ Builds:
     gradle:
       - yes
 
-AutoUpdateMode: Version v%v
+AutoUpdateMode: Version
 UpdateCheckMode: Tags
 CurrentVersion: '1.0'
 CurrentVersionCode: 1
