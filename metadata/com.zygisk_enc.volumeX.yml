@@ -6,6 +6,7 @@ SourceCode: https://github.com/zygisk-enc/volumeX
 IssueTracker: https://github.com/zygisk-enc/volumeX/issues
 
 AutoName: VolumeX
+
 RepoType: git
 Repo: https://github.com/zygisk-enc/volumeX.git
 
