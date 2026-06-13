@@ -8,5 +8,5 @@
     <string name="privacy_title">Privacy &amp; Security</string>
     <string name="privacy_desc">VolumeX requires NO internet permission and contains NO trackers or telemetry. It only interacts with your system volume settings locally.</string>
     <string name="github_text">Source code available on GitHub:</string>
-    <string name="github_url">https://github.com/zygisk-enc/volumeX</string>
+    <string name="github_url">https://github.com/snap24/volumeX</string>
 </resources>
