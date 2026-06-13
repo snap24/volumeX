@@ -21,6 +21,15 @@ VolumeX is a specialized system utility designed for seamless audio management. 
 - **Privacy Focus:** Operates entirely offline with no internet permissions or data collection.
 - **Material 3 Design:** Follows modern Android design standards for a native feel.
 
+<details>
+<summary><b>Interface Gallery</b></summary>
+<br>
+<div align="center">
+  <img src="metadata/en-US/images/phoneScreenshots/1.jpeg" width="200" />
+  <img src="metadata/en-US/images/phoneScreenshots/2.jpeg" width="200" />
+</div>
+</details>
+
 ## Technical Configuration
 
 - **Minimum SDK:** 29 (Android 10).
