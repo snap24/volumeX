@@ -9,3 +9,24 @@
 .cxx
 local.properties
 app/build/
+
+# Android Studio
+.idea/
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Android Built Files
+*.apk
+*.ap_
+*.dex
+*.dm
+
+# OS files
+.DS_Store
+Thumbs.db
+
