@@ -1,0 +1,1 @@
+App size significantly reduced from 4MB to 1MB by stripping out unused resources.
