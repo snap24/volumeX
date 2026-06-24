@@ -1,8 +1,8 @@
 <div align="center">
   <h1>VolumeX</h1>
   <p>Minimalist high-precision volume control for Android</p>
-  <img src="fastlane/metadata/android/en-US/images/icon.png" width="256" height="256" />
-  <br>
+  <img src="fastlane/metadata/android/en-US/images/icon.png" width="144" height="144" />
+  <br><br>
 
   [![Latest Version](https://img.shields.io/badge/Version-v1.0.0-9575CD?style=flat&logo=github&logoColor=white)](https://github.com/snap24/volumeX/releases)
   ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk&logoColor=white)
