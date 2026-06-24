@@ -1,12 +1,13 @@
 <div align="center">
   <h1>VolumeX</h1>
   <p>Minimalist high-precision volume control for Android</p>
-  <img src="metadata/images/icon.png" width="128" height="128" />
-  <br><br>
-  
-  [![Version](https://img.shields.io/badge/Version-v1.0.0-9575CD?style=flat-square)](https://github.com/snap24/volumeX/releases)
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](LICENSE)
-  [![Platform](https://img.shields.io/badge/Platform-Android_10+-brightgreen?style=flat-square)](https://developer.android.com)
+  <img src="fastlane/metadata/android/en-US/images/icon.png" width="256" height="256" />
+  <br>
+
+  [![Latest Version](https://img.shields.io/badge/Version-v1.0.0-9575CD?style=flat&logo=github&logoColor=white)](https://github.com/snap24/volumeX/releases)
+  ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![Android](https://img.shields.io/badge/API-29%2B-3DDC84?style=flat&logo=android&logoColor=white)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat&logo=apache&logoColor=white)](LICENSE)
 </div>
 
 ---
@@ -42,11 +43,17 @@ VolumeX is a specialized system utility designed for seamless audio management. 
 2. **Environment:** Android Studio Koala+, JDK 17.
 3. **Execution:** Use `./gradlew assembleRelease` for production-ready binaries.
 
-## License
+## Available On
 
-Distributed under the Apache License 2.0. See `LICENSE` for further information.
+<a href="https://f-droid.org/packages/com.zygisk_enc.volumeX"><img src=".github/assets/badge_fdroid.png" height="60" alt="Get it on F-Droid" /></a>
+<a href="https://github.com/snap24/volumeX/releases"><img src=".github/assets/badge_github.png" height="60" alt="Get it on GitHub" /></a>
+
+## License
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge&logo=apache" height="40" alt="Apache 2.0"></a>
+
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
 
 ---
 <div align="center">
-  Maintained by snap24
+  Maintained by Chinmai H B
 </div>
