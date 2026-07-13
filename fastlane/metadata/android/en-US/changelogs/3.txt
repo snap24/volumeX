@@ -1,0 +1,2 @@
+- Added compatibility fix for Android 17 (API 37) volume adjustment via Quick Settings tile.
+- Resolved TileService startActivityAndCollapse Intent crash on newer Android versions.

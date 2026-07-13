@@ -4,7 +4,7 @@
   <img src="fastlane/metadata/android/en-US/images/icon.png" width="144" height="144" />
   <br><br>
 
-  [![Latest Version](https://img.shields.io/badge/Version-v1.1.0-9575CD?style=flat&logo=github&logoColor=white)](https://github.com/snap24/volumeX/releases)
+  [![Latest Version](https://img.shields.io/badge/Version-v1.1.1-9575CD?style=flat&logo=github&logoColor=white)](https://github.com/snap24/volumeX/releases)
   ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk&logoColor=white)
   ![Android](https://img.shields.io/badge/API-29%2B-3DDC84?style=flat&logo=android&logoColor=white)
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat&logo=apache&logoColor=white)](LICENSE)
@@ -13,6 +13,13 @@
 ---
 
 VolumeX is a specialized system utility designed for seamless audio management. It provides a non-intrusive, high-performance volume shortcut directly within the Android Quick Settings environment, eliminating the need for physical button interaction.
+
+## Versions & Changelog
+
+*   **v1.1.1 (Current Release)**
+    *   **Android 17 Compatibility:** Replaced background intent launching with a transparent action activity triggered via a `PendingIntent`, preventing silent failures and TileService crashes.
+*   **v1.1.0**
+    *   Baseline Quick Settings volume tile shortcuts and theme configurations.
 
 ## Features
 
